@@ -47,11 +47,17 @@ Install dependencies using:
 ```bash
 pip install -r requirements.txt
 
-## **Running the App Locally**
+---
+
+## Running the App Locally
 streamlit run app.py
+
+---
 
 ## Tutorial
 Watch the full walkthrough video:
+
+---
 
 ## 🛡️ Security & Privacy
 All data is stored temporarily in-session (demo).
@@ -60,6 +66,9 @@ In production, integrate with a secure cloud database (e.g., Firebase, Supabase)
 
 Authentication is currently basic; use Firebase Auth or similar for real apps.
 
+---
+
 ## 🤝 Authors
 This solution is part of a final-year Biomedical Engineering project (BMEN416 - University of Ghana).
 
+---
