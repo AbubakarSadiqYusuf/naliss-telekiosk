@@ -11,7 +11,7 @@ import time
 st.set_page_config(page_title="Naliss Care Telekiosk", layout="wide")
 
 # Logo and Sidebar
-st.sidebar.image("/mnt/data/naliss_B.jpg", width=200)
+st.sidebar.image("naliss_B.jpg", width=200)
 st.sidebar.title("NALISS CARE")
 st.sidebar.markdown("Your Rural Telemedicine Gateway")
 
