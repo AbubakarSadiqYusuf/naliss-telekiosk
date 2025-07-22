@@ -61,7 +61,7 @@ db = st.session_state["records"]
 if menu == "Home":
     st.title("Naliss Care Telekiosk")
     st.subheader(translations["Welcome"].get(language, "Welcome"))
-    st.image("/mnt/data/naliss_B.jpg", width=150)
+    st.image("naliss_B.jpg", width=150)
     st.markdown("""
     ### Empowering Rural Healthcare
     - Real-time consultations
